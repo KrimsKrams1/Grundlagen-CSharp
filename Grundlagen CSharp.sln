@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Übung_Verzweigungen", "1_Übung_Verzweigungen\1_Übung_Verzweigungen.csproj", "{F7408DED-C4C3-4436-8C16-D9E9F7A35BA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_Übung_Verzweigungen", "1_Übung_Verzweigungen\1_Übung_Verzweigungen.csproj", "{F7408DED-C4C3-4436-8C16-D9E9F7A35BA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{DB4D1664-A301-4B1F-AB35-8FBFC817B810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ubung_blatt", "ubung_blatt\ubung_blatt.csproj", "{0B7DB450-3C8D-475F-B517-41FAF21D1F11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F7408DED-C4C3-4436-8C16-D9E9F7A35BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7408DED-C4C3-4436-8C16-D9E9F7A35BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7408DED-C4C3-4436-8C16-D9E9F7A35BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4D1664-A301-4B1F-AB35-8FBFC817B810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4D1664-A301-4B1F-AB35-8FBFC817B810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4D1664-A301-4B1F-AB35-8FBFC817B810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4D1664-A301-4B1F-AB35-8FBFC817B810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7DB450-3C8D-475F-B517-41FAF21D1F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7DB450-3C8D-475F-B517-41FAF21D1F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7DB450-3C8D-475F-B517-41FAF21D1F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7DB450-3C8D-475F-B517-41FAF21D1F11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
